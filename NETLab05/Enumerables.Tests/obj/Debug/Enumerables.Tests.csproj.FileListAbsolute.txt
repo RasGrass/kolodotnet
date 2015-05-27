@@ -1,0 +1,7 @@
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\bin\Debug\Enumerables.Tests.dll
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\bin\Debug\Enumerables.Tests.pdb
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\bin\Debug\Enumerables.dll
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\bin\Debug\Enumerables.pdb
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\obj\Debug\Enumerables.Tests.csprojResolveAssemblyReference.cache
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\obj\Debug\Enumerables.Tests.dll
+C:\Users\RasGrass\1a\NETLab05\Enumerables.Tests\obj\Debug\Enumerables.Tests.pdb

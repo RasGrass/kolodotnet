@@ -1,0 +1,7 @@
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\bin\Debug\Exam.Test.dll
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\bin\Debug\Exam.Test.pdb
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\bin\Debug\Exam.dll
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\bin\Debug\Exam.pdb
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\obj\Debug\Exam.Test.csprojResolveAssemblyReference.cache
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\obj\Debug\Exam.Test.dll
+C:\Users\RasGrass\1a\NETLab07\Exam.Test\obj\Debug\Exam.Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\RasGrass\1a\NETLab05\Enumerables\bin\Debug\Enumerables.dll
+C:\Users\RasGrass\1a\NETLab05\Enumerables\bin\Debug\Enumerables.pdb
+C:\Users\RasGrass\1a\NETLab05\Enumerables\obj\Debug\Enumerables.csprojResolveAssemblyReference.cache
+C:\Users\RasGrass\1a\NETLab05\Enumerables\obj\Debug\Enumerables.dll
+C:\Users\RasGrass\1a\NETLab05\Enumerables\obj\Debug\Enumerables.pdb
